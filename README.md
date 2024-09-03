@@ -21,7 +21,7 @@ This project is a full-stack web application that allows users to explore a wide
   - **Bcrypt**: Hashes passwords for secure storage, enhancing the security of user accounts.
 
 - **Payment Integration**:
-  - **Stripe** or **PayPal**: (Optional) Facilitates secure online transactions, enabling users to make payments directly through the platform.
+  - **Stripe** or **PayPal**: Facilitates secure online transactions, enabling users to make payments directly through the platform.
 
 ## Features
 
